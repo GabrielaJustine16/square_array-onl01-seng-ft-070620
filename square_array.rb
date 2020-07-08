@@ -6,7 +6,7 @@
    # new_array << number ** 2
   #end
  # new_array
-end 
+#end 
 def square_array(array)
   squared_array = []
   array.each do |num|
